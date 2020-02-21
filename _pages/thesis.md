@@ -8,7 +8,7 @@ permalink: /projects/jLTE-Simulator/
 
 You can now download the final post-examination revision of my thesis,
 titled [**Self-Organisation in LTE Networks: An
-Investigation**](/self-organisation-in-lte-networks-final.pdf).
+Investigation**](/assets/self-organisation-in-lte-networks-final.pdf).
 
 ## Software
 
