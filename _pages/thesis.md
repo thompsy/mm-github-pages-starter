@@ -14,33 +14,32 @@ Investigation**](/assets/self-organisation-in-lte-networks-final.pdf).
 
 In the interests of repeatable research the software developed as part
 of this thesis has been made available. Details about the software
-components can be found below. Each of the components can be
-downloaded from [github](http://github.com/thompsy/jLTE-Simulator).
+components can be found below
 
 ### jLTE-Simulator
 
-The jLTE-Simulator is an LTE network simulator designed and
-implemented as part of this research. It is a physical layer simulator
-tailored to the investigation of different schedulers on the
-performance of the network.
+The [jLTE-Simulator](https://github.com/thompsy/jLTE-Simulator) is an LTE 
+network simulator designed and implemented as part of this research. It is a
+physical layer simulator tailored to the investigation of different schedulers
+on the performance of the network.
 
 ### jLTE-EvolutionaryAlgorithm
 
-The jLTE-EvolutionaryAlgorithm is an evolutionary algorithm
-designed to be used in conjunction with the jLTE-Simulator. The
-simulator is used as a fitness function to evolve parameter values for
-new schedulers.
+The [jLTE-EvolutionaryAlgorithm](https://github.com/thompsy/jLTE-EvolutionaryAlgorithm)
+is an evolutionary algorithm designed to be used in conjunction with the
+jLTE-Simulator. The simulator is used as a fitness function to evolve parameter
+values for new schedulers.
 
 ### jLTE-Experiments
 
-The jLTE-Experiments project is an experiment framework built on the
-jLTE-Simulator and jLTE-EvolutionaryAlgorithm projects. It contains
-all the code required to run the experiments reported as part of my
-thesis. The primary purpose of this project is to allow easy running
-of experiments across a cluster of machines. Since each of the
-experiments may run for a significant period of time, parallelising
-the process across multiple hosts is a simple way to speed up the
-process.
+The [jLTE-Experiments](https://github.com/thompsy/jLTE-Experiments) project is
+an experiment framework built on the jLTE-Simulator and
+jLTE-EvolutionaryAlgorithm projects. It contains all the code required to run
+the experiments reported as part of my thesis. The primary purpose of this
+project is to allow easy running of experiments across a cluster of machines.
+Since each of the experiments may run for a significant period of time,
+parallelising the process across multiple hosts is a simple way to speed up
+the process.
 
 
 ## Thesis Abstract
