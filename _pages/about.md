@@ -1,8 +1,30 @@
 ---
+title: About
+tagline: What's all this about?
 permalink: /about/
-title: "About"
+tags: [about]
+share: false
+modified: 01-04-2014
+comments: false
 ---
+Welcome to my home on the web. This is a space for me to put up my
+research and writing. Have a look around and feel free to get in
+touch.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Thanks.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Who am I?
+
+I'm a Christian living and working in my adoptive home, the great city
+of Edinburgh, Scotland.
+
+I've been gainfully employed doing a number of things over the years,
+from flipping burgers, to building webservers, building systems to
+troubleshoot mobile phone networks to building large scale distributed
+systems for a large online company.
+
+I'm actively involved in the Christian community in Edinburgh in
+various different capacities. While I'm not occupied there I enjoy
+reading in a range of different subjects from classics to theology to
+technical and engineering books, not to mention playing the occasional
+board game or two.

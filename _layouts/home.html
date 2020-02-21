@@ -1,0 +1,27 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h3>Welcome</h3>
+
+<p>I'm Andrew Thompson, software engineer and former PhD student. If
+you're looking for details about my research see
+the <a href="/projects/jLTE-Simulator/">thesis page</a>. That's pretty much
+all that's here for now, but who knows what might appear in due
+course.</p>
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
